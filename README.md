@@ -1,7 +1,7 @@
 # 🏡 Community-Driven Real Estate Marketplace  
 
 A **full-stack real estate web application** built using the **MERN stack**, designed to empower communities by providing a transparent, secure, and user-friendly property marketplace.  
-![landing page](propertypage.jpg)
+
 
 ## 🚀 Features  
 - 🔑 **Authentication & Authorization** – Secure user login/signup with Auth0.  
@@ -33,3 +33,4 @@ A **full-stack real estate web application** built using the **MERN stack**, des
    cd ../server && npm install  
 3. Run the app:
    npm run dev
+![landing page](propertypage.jpg)
